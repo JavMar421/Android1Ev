@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recu</string>
+    <string name="artist_spotlights">Artist Spotlights</string>
+    <string name="picks_for_you">Picks for You</string>
+    <string name="andrea_lauren">Andrea Lauren</string>
+    <string name="carly_watts">Carly Watts</string>
+    <string name="freeminds">freeminds</string>
+    <string name="louros">louros</string>
+    <string name="sophie_co">Sophie Co</string>
+    <string name="anna_aleke">Anna Aleke</string>
+    <string name="littleclyde">littleclyde</string>
+    <string name="andyweste">AndyWeste</string>
+    <string name="smalldraws">smalldraws</string>
+    <string name="laorel">Laorel</string>
+    <string name="view_all">View All</string>
+    <string name="floral">Floral</string>
+    <string name="by_tabyarnuz">by TabyArnuz</string>
+</resources>
